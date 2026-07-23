@@ -1,0 +1,26 @@
+# Boom Streaming 분석 및 개선 방법
+
+---
+# 1. 유저 인구통계 및 타겟층 분석
+
+![image](https://github.com/user-attachments/assets/5fd3fe75-9085-4444-a88d-d7a0a4ab563a)
+
+![image](https://github.com/user-attachments/assets/d44bd7db-9e19-43a2-83a8-4ed824d8bfa6)
+
+## 방문자와 재생 수 모두 10대와 20대가 압도적인 점유율을 보임
+
+---
+
+![image](https://github.com/user-attachments/assets/1fa7f12f-5782-49ca-9a80-26381b6b843d)
+
+## 전 연령대 및 성별 통틀어 남성(447,883명)이 여성(299,034명)보다 유의미하게 높은 지표를 나타냄. 이는 BOOM 서비스의 핵심 이용자가 1020 남성층임을 명확히 보여줌
+
+---
+
+![image](https://github.com/user-attachments/assets/a4a6ccf8-0b6d-4480-a74b-319f3aca8c13)
+
+## **연령대별 소비 성향**
+
+**10대 및 20대**: **붐 차트 재생 수**가 가장 높고, **최근에 재생한 곡**, **인기곡 재생 수** 순으로 뒤를 이어 트렌드 주도형 소비 성향을 보임.
+
+**30대, 40대 및 기타**: **최근에 재생한 곡 재생 수**의 비중이 가장 크며, **인기곡**, **붐 차트** 순으로 나타나 개인 취향 중심의 반복 재생 성향이 두드러짐
